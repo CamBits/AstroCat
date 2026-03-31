@@ -21,7 +21,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 45
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -95,7 +95,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_0
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 110
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559d65fca6ad56a4fb9cdae42f5db4b1
+      internalID: -953177934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 110
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79453f236f234de45af07702ed06caeb
+      internalID: 2086892722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 13
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4f4709c1ea61848a423f4be6e5e3c1
+      internalID: 359752408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 13
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c3d0add9a53047a0c99a4f148e0f2
+      internalID: -684895210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 53
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e7f42be0907b4ab3ce7943467a8fe
+      internalID: 560200707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 101
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd8de2067a4ce4ab9cb078b1c99c65
+      internalID: -917988157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 147
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aaa814d07166746bd99f8536567d9f
+      internalID: -587517351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 98
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656cc848fb1173541990ca8d1edbf9d3
+      internalID: 706580141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 54
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aa158c6d4dd6b419a08348e3391f19
+      internalID: 347790259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 61
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b8d383afd756e478bd81b369b9fc43
+      internalID: 545504235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c25a3f33ab3c5488bb5e4ed19df219
+      internalID: -963955119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 11
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a42d9675e9ce374993591a2ad8d073d
+      internalID: -512792438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e38982f46ca164390add18b7d80eb9
+      internalID: -110922330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 11
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad24fcd39943e48b23e3ec0906d8e6
+      internalID: -1165792615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 10
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c0b6bf85a80294a9e80c872f20cc62
+      internalID: 1940397209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET mas elementos segun el nivel y ambientacion_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 10
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c6fd37e3ec3dc42974b61cd55ffb28
+      internalID: 1797212086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +442,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TILESET mas elementos segun el nivel y ambientacion_0: -953177934
+      TILESET mas elementos segun el nivel y ambientacion_1: 2086892722
+      TILESET mas elementos segun el nivel y ambientacion_10: -963955119
+      TILESET mas elementos segun el nivel y ambientacion_11: -512792438
+      TILESET mas elementos segun el nivel y ambientacion_12: -110922330
+      TILESET mas elementos segun el nivel y ambientacion_13: -1165792615
+      TILESET mas elementos segun el nivel y ambientacion_14: 1940397209
+      TILESET mas elementos segun el nivel y ambientacion_15: 1797212086
+      TILESET mas elementos segun el nivel y ambientacion_2: 359752408
+      TILESET mas elementos segun el nivel y ambientacion_3: -684895210
+      TILESET mas elementos segun el nivel y ambientacion_4: 560200707
+      TILESET mas elementos segun el nivel y ambientacion_5: -917988157
+      TILESET mas elementos segun el nivel y ambientacion_6: -587517351
+      TILESET mas elementos segun el nivel y ambientacion_7: 706580141
+      TILESET mas elementos segun el nivel y ambientacion_8: 347790259
+      TILESET mas elementos segun el nivel y ambientacion_9: 545504235
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

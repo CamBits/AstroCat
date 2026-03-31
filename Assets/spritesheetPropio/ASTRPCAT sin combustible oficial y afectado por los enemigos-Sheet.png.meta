@@ -21,7 +21,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 70
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -95,7 +95,826 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 350
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47293fd5ecc10a041aca5a18cd0143f3
+      internalID: 1780667899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 233
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb714541f782504ca64f630c973f1ab
+      internalID: 1527555824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 85
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77cef6b6862316438e42358dde04093
+      internalID: 941108083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132d4bb06b41c98439d57f790aced959
+      internalID: -2191988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 343
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006e82f20d97ae345a3a25c60b696440
+      internalID: -1488281983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 230
+        width: 94
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca59cddd48182c4c80055366ceaf6a8
+      internalID: 1259943618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 120
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b96dcd78aa314789298d5b38d1762
+      internalID: -639159708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b20978556018c54d90cc2ecdcdd4311
+      internalID: 2058274013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 9
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2913bb3e0b2d83747a9aceecba788063
+      internalID: -1546762982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 119
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43ee04863ca3044c8f3e4b23a3b93f4
+      internalID: 1503926074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 230
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e691179d106736b45bcf227836638799
+      internalID: 1314495077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 343
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a1777802a6e734a8293fc93427ec06
+      internalID: -586135772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 343
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158b75889d775394eb22263774b4c0ac
+      internalID: -2092233467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 230
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbff9939ea6028a4f86100fb0271bedc
+      internalID: -428498092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 115
+        width: 88
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3550dad9668a775418727be3e0b723bf
+      internalID: -1225200414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2
+        width: 83
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755a9fd4585dd164b9c4660904e2606d
+      internalID: 2055504489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb0824e7e1f94d43b033cd005cc1cfb
+      internalID: 2078041062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3
+        width: 88
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5aadc4069892349ae48dccefa42855
+      internalID: 1126598934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 115
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb3982f8344d2e46afa329480365fdd
+      internalID: -1451402380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 115
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbcd672d4e1fdb46ad4d4b11653caa2
+      internalID: 454132508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 229
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e8e0121fe529a459543815eff2d284
+      internalID: 1945284459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 227
+        width: 102
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f5e7dfdef4694e9d8b6d06f2956a4
+      internalID: 85433675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 343
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d03ff42c0051b64dabce981241578eb
+      internalID: 1750806504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 341
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10356d48fec2b904b99542d3a11c3d1e
+      internalID: 178139511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 337
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64aa1973b22c6c49a2d686e8b1f91b7
+      internalID: -1759474823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 338
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d362ad220448efa4fa5d81ecd437885c
+      internalID: 1801648495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 338
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a82784c7294846ba2efe0e90a4d5a
+      internalID: 1289786509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 337
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e554f129b71ac4a4483dd0a59b697dbd
+      internalID: 1913192640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 338
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4de8f8ebd95d478a1d65e25a3a34d
+      internalID: -555760563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 225
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c39040866035f84ca8dc66c36ebd03f
+      internalID: -771379465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 112
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697e08a23403ea24f9035ce6629ba9e8
+      internalID: -289658168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 114
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61e5831bd6a1c04a9a4596ba8399289
+      internalID: -1479764564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 224
+        width: 102
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec675bb6c04b8c541b8f131b58519d09
+      internalID: 1342707874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 223
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa3d4e33cf64b41bc3e6111c2e8673
+      internalID: 1591365005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 226
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4979c0f4cd57d4b47900bb07bbe37c77
+      internalID: 1116879128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 114
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f67035db6c6d0468c972b7e21fbe04
+      internalID: -665100428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 114
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8285133aa0c5fc649a0d16c9fdf4a10a
+      internalID: 1554385224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 6
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21d7589ec436b7458a9e11d4b1d291c
+      internalID: -2135905412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 2
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef6b51aff0b20044a36b5fc31e92e13
+      internalID: -1446049700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +925,46 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_0: 1780667899
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_1: 1527555824
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_10: 1314495077
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_11: -586135772
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_12: -2092233467
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_13: -428498092
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_14: -1225200414
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_15: 2055504489
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_16: 2078041062
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_17: 1126598934
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_18: -1451402380
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_19: 454132508
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_2: 941108083
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_20: 1945284459
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_21: 85433675
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_22: 1750806504
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_23: 178139511
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_24: -1759474823
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_25: 1801648495
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_26: 1289786509
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_27: 1913192640
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_28: -555760563
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_29: -771379465
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_3: -2191988
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_30: -289658168
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_31: -1479764564
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_32: 1342707874
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_33: 1591365005
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_34: 1116879128
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_35: -665100428
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_36: 1554385224
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_37: -2135905412
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_38: -1446049700
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_4: -1488281983
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_5: 1259943618
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_6: -639159708
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_7: 2058274013
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_8: -1546762982
+      ASTRPCAT sin combustible oficial y afectado por los enemigos-Sheet_9: 1503926074
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
