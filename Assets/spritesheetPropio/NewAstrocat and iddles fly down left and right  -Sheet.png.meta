@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: b50aaeed175ca614792459214001e650
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 614
+        width: 166
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff24f2d41ff1ba479347b44a2948e17
+      internalID: 1364163277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 604
+        width: 166
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc194768af14e84e869f4ed29b21c25
+      internalID: 1100334247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 598
+        width: 166
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c671e4949d34c2a43838792ee2efb8e4
+      internalID: 1977324756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 429
+        width: 166
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d0d6fa2258a3a46b12066f8532cdaf
+      internalID: -1724148184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 429
+        width: 166
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb45bc4899457e4ebbba35db1dd79e9
+      internalID: 685050281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 419
+        width: 166
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687de4986881e8443b129907682baa1c
+      internalID: 1753752409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 419
+        width: 166
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d965b7e5c6b99f488ec6d3ba1b14b88
+      internalID: -20222923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 413
+        width: 166
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2f8fa502bb8df418e765e5d018dc0d
+      internalID: 1799445390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 413
+        width: 166
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771c99e3522d8454fba1b20b569e2758
+      internalID: -14518864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 204
+        width: 166
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd308c79cab6b2d49983866626dc4c93
+      internalID: 939404628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 201
+        width: 172
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d8029e81c4b4547983e7220ace5735
+      internalID: 101426592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 207
+        width: 166
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f26a7f728bed314285225dcaa5534dc
+      internalID: 1669519170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 166
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906d5b3e7ae755442b7219b34b41a015
+      internalID: -2043698676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 11
+        width: 166
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911368a0e5657b44ab7035b2f158350b
+      internalID: 671618110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 169
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc54ee84f0b171646a47dec6037053ba
+      internalID: -52401299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2
+        width: 169
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a15d15b001b2548ba2a03c7c4fb0ee
+      internalID: -247610171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 18
+        width: 166
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b75aafed2ffc24d932b81cc44480bc
+      internalID: 1636828246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAstrocat and iddles fly down left and right  -Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 18
+        width: 166
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8fb2fa800946b4db554698bb5cba92
+      internalID: 2048678522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NewAstrocat and iddles fly down left and right  -Sheet_0: 1364163277
+      NewAstrocat and iddles fly down left and right  -Sheet_1: 1100334247
+      NewAstrocat and iddles fly down left and right  -Sheet_10: 101426592
+      NewAstrocat and iddles fly down left and right  -Sheet_11: 1669519170
+      NewAstrocat and iddles fly down left and right  -Sheet_12: -744093817
+      NewAstrocat and iddles fly down left and right  -Sheet_13: -2043698676
+      NewAstrocat and iddles fly down left and right  -Sheet_14: 671618110
+      NewAstrocat and iddles fly down left and right  -Sheet_15: -52401299
+      NewAstrocat and iddles fly down left and right  -Sheet_16: -2132565115
+      NewAstrocat and iddles fly down left and right  -Sheet_17: -247610171
+      NewAstrocat and iddles fly down left and right  -Sheet_18: 1636828246
+      NewAstrocat and iddles fly down left and right  -Sheet_19: 2048678522
+      NewAstrocat and iddles fly down left and right  -Sheet_2: 1977324756
+      NewAstrocat and iddles fly down left and right  -Sheet_20: -992000025
+      NewAstrocat and iddles fly down left and right  -Sheet_21: 1393566700
+      NewAstrocat and iddles fly down left and right  -Sheet_22: 288960664
+      NewAstrocat and iddles fly down left and right  -Sheet_23: 13163958
+      NewAstrocat and iddles fly down left and right  -Sheet_3: -1724148184
+      NewAstrocat and iddles fly down left and right  -Sheet_4: 685050281
+      NewAstrocat and iddles fly down left and right  -Sheet_5: 1753752409
+      NewAstrocat and iddles fly down left and right  -Sheet_6: -20222923
+      NewAstrocat and iddles fly down left and right  -Sheet_7: 1799445390
+      NewAstrocat and iddles fly down left and right  -Sheet_8: -14518864
+      NewAstrocat and iddles fly down left and right  -Sheet_9: 939404628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
