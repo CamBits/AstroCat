@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: d0c141e261af87c42913ac0703da9fdf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 181
+        width: 123
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69089d8230cda04c9fd0d8e7da3913a
+      internalID: 62825931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 78
+        width: 119
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde4049096c03ab488bb833f98a6d530
+      internalID: 422774780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 14
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1b6cb413cfc644e853a102841d6b12
+      internalID: -279569008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 184
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f00cb211070326449f65e0dca15d47a
+      internalID: -867371619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 85
+        width: 108
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec91066ca5dcab64ebbb563a1fcb5623
+      internalID: 2069798763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 11
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b506aebaf117bd74ea2b535704cfb2a3
+      internalID: -1087852650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 13
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b857deb1a4c754db3fbf73c0103fa2
+      internalID: 509380955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 87
+        width: 107
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7600497bbdd6aa944a9d3b9b97c010e2
+      internalID: -1452259315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 186
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbf52e0a18663743bcc32c064584534
+      internalID: -283410114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 213
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e6b9cbbdb983b429d2870c89da470f
+      internalID: 1675489773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 89
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f8b70089818484fb0c0529eaa69ef1
+      internalID: 230582884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 9
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02faf18d6517a95428748a87f0e4d32d
+      internalID: 1214989763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 213
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349e1b7bdf4b7644ab76f2a7a0997751
+      internalID: -1605768254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 174
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44997591ffe77424aa7ef6d29e74a8db
+      internalID: 572653192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 134
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ce06feb215724cb9d27f479459ee2
+      internalID: 612964183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 95
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b4b6dcbfa02448a0fbcce287ce823
+      internalID: 1883671760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 56
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0e8c7852845d14d852db71a7823790
+      internalID: -1558259410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a485a04902a24aa8c1755190c9498
+      internalID: -758593341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 177
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533aac4b1f917754c889f63d58a1f20a
+      internalID: 219146329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 76
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fc7b62c7a6c5b4a8c81f1cb2831fd4
+      internalID: 1055404413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 13
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5147b8bb6ebba49a4e7332cc5e8377
+      internalID: 682780010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 12
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee332d84924cdb43ae373b771ceb53d
+      internalID: 1501626488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 81
+        width: 107
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d17d8b264fe75d4ba4dafa699598d88
+      internalID: 740409264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 185
+        width: 114
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fa1f34827280341879b5d2f59da2df
+      internalID: 147615199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 181
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fdd56c1f9512043aaa1dfde4503c17
+      internalID: 1266935974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 81
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee381723c1243a84e92791ff389eedfa
+      internalID: -1764291601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 13
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38fa6f376016ac43a43b1b40561c997
+      internalID: -503160230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 13
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8016ab91b37f2f4280be41c5220cb7a
+      internalID: -627305750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 81
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b8f6cc46f66f74a8f962873789b3d5
+      internalID: 2106261010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 182
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9952d72e7bbe60a47bd425c546137902
+      internalID: 812984381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 177
+        width: 125
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c299eae7703d50144a66f3411e104202
+      internalID: -1839012994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 76
+        width: 122
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa61d5644ccd1b4aa424af3caf9ea4d
+      internalID: 1694223684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 14
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114768957424c6947a94e9da6470a29b
+      internalID: -1254501449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 189
+        width: 115
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb18feeb94a8114694d24b1b048d89e
+      internalID: -195319743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 85
+        width: 117
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aada330e4847b5458f958f80eab40e2
+      internalID: 1712814032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 15
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54f4f0336893f4e82a1234a11dc1ca
+      internalID: 896316593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 183
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283246115f7fe814a9861c6bae5c3818
+      internalID: 1766794255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat despegue y caminar perfil-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 180
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42130dceb6ac54c409fcdffa4def186f
+      internalID: 125089555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Astrocat despegue y caminar perfil-Sheet_0: 62825931
+      Astrocat despegue y caminar perfil-Sheet_1: 422774780
+      Astrocat despegue y caminar perfil-Sheet_10: 230582884
+      Astrocat despegue y caminar perfil-Sheet_11: 1214989763
+      Astrocat despegue y caminar perfil-Sheet_12: -1605768254
+      Astrocat despegue y caminar perfil-Sheet_13: 572653192
+      Astrocat despegue y caminar perfil-Sheet_14: 612964183
+      Astrocat despegue y caminar perfil-Sheet_15: 1883671760
+      Astrocat despegue y caminar perfil-Sheet_16: -1558259410
+      Astrocat despegue y caminar perfil-Sheet_17: -758593341
+      Astrocat despegue y caminar perfil-Sheet_18: 219146329
+      Astrocat despegue y caminar perfil-Sheet_19: 1055404413
+      Astrocat despegue y caminar perfil-Sheet_2: -279569008
+      Astrocat despegue y caminar perfil-Sheet_20: 682780010
+      Astrocat despegue y caminar perfil-Sheet_21: 1501626488
+      Astrocat despegue y caminar perfil-Sheet_22: 740409264
+      Astrocat despegue y caminar perfil-Sheet_23: 147615199
+      Astrocat despegue y caminar perfil-Sheet_24: 1266935974
+      Astrocat despegue y caminar perfil-Sheet_25: -1764291601
+      Astrocat despegue y caminar perfil-Sheet_26: -503160230
+      Astrocat despegue y caminar perfil-Sheet_27: -627305750
+      Astrocat despegue y caminar perfil-Sheet_28: 2106261010
+      Astrocat despegue y caminar perfil-Sheet_29: 812984381
+      Astrocat despegue y caminar perfil-Sheet_3: -867371619
+      Astrocat despegue y caminar perfil-Sheet_30: -1839012994
+      Astrocat despegue y caminar perfil-Sheet_31: 1694223684
+      Astrocat despegue y caminar perfil-Sheet_32: -1254501449
+      Astrocat despegue y caminar perfil-Sheet_33: -195319743
+      Astrocat despegue y caminar perfil-Sheet_34: 1712814032
+      Astrocat despegue y caminar perfil-Sheet_35: 896316593
+      Astrocat despegue y caminar perfil-Sheet_36: 1766794255
+      Astrocat despegue y caminar perfil-Sheet_37: 125089555
+      Astrocat despegue y caminar perfil-Sheet_4: 2069798763
+      Astrocat despegue y caminar perfil-Sheet_5: -1087852650
+      Astrocat despegue y caminar perfil-Sheet_6: 509380955
+      Astrocat despegue y caminar perfil-Sheet_7: -1452259315
+      Astrocat despegue y caminar perfil-Sheet_8: -283410114
+      Astrocat despegue y caminar perfil-Sheet_9: 1675489773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

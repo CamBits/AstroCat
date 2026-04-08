@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 489112b453ffc5045aa75281024a299d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 297
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b2989731bf0444c9748f1e03fc1659
+      internalID: 1764838676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 297
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b4278b1a83b5c468c340526b9f2bdd
+      internalID: 1713957854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 297
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d382a2a3029d943ba8bd3f3854da44
+      internalID: -1907055787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 297
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bcfd3ad9a5c7a4a87f27dc49d4bc5e
+      internalID: 1220110542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 297
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7aac3f533f1b488eb9b7912502c48
+      internalID: -926908770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 297
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d2c5bee08285743a7166022b7ef435
+      internalID: -1471566209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 144
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a7e6b25676d8e4d9419bbbcbb55090
+      internalID: 705235201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69388b669466f5f49bd7ed4a022e7e13
+      internalID: -833979766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 144
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03965d5f3e099743a8010b738f3fca9
+      internalID: -942186767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 144
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc27672e42f44d643b2b8302ab86749c
+      internalID: -1158862187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 144
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971dafad027d8294b90dcb13b3c651ec
+      internalID: 2142499625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 144
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea93d2eaeb6c8cb4081db0ac4bd338e9
+      internalID: -35059812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 14
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dd99755b5b4144384794f0d9c3edcb
+      internalID: 1255159805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b1ff68152a6f44b2f731286e93023
+      internalID: -107185120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 14
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567c24c41a8a55e4cbcda01d3147d4dd
+      internalID: -1848061281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 14
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d229f82c547c44aa8b2e301e549f17
+      internalID: -1052013869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_0: 1764838676
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_1: 1713957854
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_10: 2142499625
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_11: -35059812
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_12: 1255159805
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_13: -107185120
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_14: -1848061281
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_15: -1052013869
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_2: -1907055787
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_3: 1220110542
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_4: -926908770
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_5: -1471566209
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_6: 705235201
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_7: -833979766
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_8: -942186767
+      Astrocat idle sin combustibleV2FINALCOPIAA-Sheet_9: -1158862187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
