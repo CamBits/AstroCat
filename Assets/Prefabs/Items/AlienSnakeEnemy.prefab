@@ -32,6 +32,18 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -821002530, guid: ada12c0d23439224cb62626b7e481e17, type: 3}
+    - target: {fileID: 2336693635322447937, guid: 5dce72a643e2a92478697c27dcec0e9b, type: 3}
+      propertyPath: m_Radius
+      value: 0.56673384
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336693635322447937, guid: 5dce72a643e2a92478697c27dcec0e9b, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.08237672
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336693635322447937, guid: 5dce72a643e2a92478697c27dcec0e9b, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.089161396
+      objectReference: {fileID: 0}
     - target: {fileID: 2798728855592627417, guid: 5dce72a643e2a92478697c27dcec0e9b, type: 3}
       propertyPath: m_Name
       value: AlienSnakeEnemy
@@ -50,7 +62,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7702106195744466694, guid: 5dce72a643e2a92478697c27dcec0e9b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -1.26
       objectReference: {fileID: 0}
     - target: {fileID: 7702106195744466694, guid: 5dce72a643e2a92478697c27dcec0e9b, type: 3}
       propertyPath: m_LocalRotation.w
@@ -201,6 +213,10 @@ PrefabInstance:
     - target: {fileID: 1942234225121065359, guid: aaf2ffa22c361a0489dfbf8d822100ee, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084565609395418586, guid: aaf2ffa22c361a0489dfbf8d822100ee, type: 3}
+      propertyPath: m_Volume
+      value: 0.44
       objectReference: {fileID: 0}
     - target: {fileID: 6381740655777249217, guid: aaf2ffa22c361a0489dfbf8d822100ee, type: 3}
       propertyPath: ShapeModule.radius.value

@@ -121,7 +121,7 @@ TextureImporter:
       name: Astrocat title_1
       rect:
         serializedVersion: 2
-        x: 26
+        x: 11
         y: 96
         width: 33
         height: 17
@@ -163,7 +163,7 @@ TextureImporter:
       name: Astrocat title_3
       rect:
         serializedVersion: 2
-        x: 26
+        x: 11
         y: 75
         width: 33
         height: 17
@@ -176,6 +176,90 @@ TextureImporter:
       bones: []
       spriteID: 061ac49f4b3a0d843938140c077e1e6e
       internalID: -1683052773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat title_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bf0b7006b46c8428056f52d71143db
+      internalID: -2009344201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat title_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 76
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d9f3136f8af24b91849dcc108a351
+      internalID: 1979791456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat title_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 122
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47defb6d48d76d14a93d604161e53c32
+      internalID: 224893220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astrocat title_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 143
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d628f7d21bf1947bf01f83ffd9a7b0
+      internalID: -556685164
       vertices: []
       indices: 
       edges: []
@@ -195,6 +279,10 @@ TextureImporter:
       Astrocat title_1: -1056767
       Astrocat title_2: 1501398926
       Astrocat title_3: -1683052773
+      Astrocat title_4: -2009344201
+      Astrocat title_5: 1979791456
+      Astrocat title_6: 224893220
+      Astrocat title_7: -556685164
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

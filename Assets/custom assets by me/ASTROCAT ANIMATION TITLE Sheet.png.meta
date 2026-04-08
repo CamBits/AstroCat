@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 10846c92ce1a6ed4fa6cf9471c0ebde4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b7cf513758770439fa0402d6d420ff
+      internalID: -895738222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 282
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052f231a65596af4293f0418117187ed
+      internalID: -482956163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 282
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ba74078963ca498e357663ffab64e
+      internalID: 343584196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 282
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c0837a71da2342a7f7d13a46d6a8c
+      internalID: 1203000114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 282
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e549831c0a94484d9dd1fbffa310620
+      internalID: -1603888955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 188
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befda1d429abf91448458a69954ccde2
+      internalID: -1016263712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 188
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2927bfb919fea74389f354b668261d5
+      internalID: 1600950886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 188
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72699b70c2ebe6f4a8a27b654a005dfc
+      internalID: 750225097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 188
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555dfcfb56bee9843b8b28549f7759be
+      internalID: -536493102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2b1217101c9b841bc723ac81b8b2e5
+      internalID: -2106068879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 94
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df227d04ed447e44fb6bf726d883e58d
+      internalID: -1776529895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 94
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cfbfbe76438b3408ca65beb3ccae75
+      internalID: 1770230657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 94
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9bd750fb508cb4eb843d880a1b6de0
+      internalID: 1856618361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b057df2173aa74489cdfa97192ed486
+      internalID: -529871757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1670971d351d34e9ebf58a3a9474fd
+      internalID: -1273101318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9813b76d0a1ca5c45b9574401855b006
+      internalID: -40886612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 94
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbdfd6a772a7cc41a8ba466494952e6
+      internalID: 1368239678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASTROCAT ANIMATION TITLE Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 0
+        width: 349
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933ed03f22f4789419a65d71b556f0cc
+      internalID: -1257799589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ASTROCAT ANIMATION TITLE Sheet_0: -895738222
+      ASTROCAT ANIMATION TITLE Sheet_1: -482956163
+      ASTROCAT ANIMATION TITLE Sheet_10: -2106068879
+      ASTROCAT ANIMATION TITLE Sheet_11: -1776529895
+      ASTROCAT ANIMATION TITLE Sheet_12: 1368239678
+      ASTROCAT ANIMATION TITLE Sheet_13: 1770230657
+      ASTROCAT ANIMATION TITLE Sheet_14: 1856618361
+      ASTROCAT ANIMATION TITLE Sheet_15: -529871757
+      ASTROCAT ANIMATION TITLE Sheet_16: -1273101318
+      ASTROCAT ANIMATION TITLE Sheet_17: -1257799589
+      ASTROCAT ANIMATION TITLE Sheet_2: 343584196
+      ASTROCAT ANIMATION TITLE Sheet_3: 1203000114
+      ASTROCAT ANIMATION TITLE Sheet_4: -1603888955
+      ASTROCAT ANIMATION TITLE Sheet_5: -40886612
+      ASTROCAT ANIMATION TITLE Sheet_6: -1016263712
+      ASTROCAT ANIMATION TITLE Sheet_7: 1600950886
+      ASTROCAT ANIMATION TITLE Sheet_8: 750225097
+      ASTROCAT ANIMATION TITLE Sheet_9: -536493102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
